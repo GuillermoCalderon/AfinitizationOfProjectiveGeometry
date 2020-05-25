@@ -2,4 +2,5 @@
 Affinitization of Projective Geometry
 =====================================
 
-En breve ... aquí va a estar el código.
+Formalization of the problem of *Afinization of a projective plane*.  
+Agda code.
