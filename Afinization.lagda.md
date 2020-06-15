@@ -20,8 +20,6 @@ open import Data.Product
 open import Function
      using (case_of_ ; _$_ ; _∘_)
 open import Relation.Binary.Apartness
-postulate
-    any : ∀{a}{A : Set a} → A
 ```
 -->
 
